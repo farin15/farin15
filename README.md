@@ -30,5 +30,6 @@ Here are some ideas to get you started:
  - CSECU-DSG at SemEval-2021 Task 6: Orchestrating Multimodal Neural Architectures for Identifying Persuasion Techniques in Texts and Images. (Accepted; To appear)
  - CSECU-DSG at SemEval-2021 Task 5: Leveraging Ensemble of Sequence Tagging Models for Toxic Spans Detection. (Accepted; To appear)
 
-📊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farin15&show_icons=true&theme=radical)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=farin15&show_icons=true&theme=radical">
