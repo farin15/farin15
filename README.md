@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🎈 Venturing in various domains including Machine Learning, Data Science, NLP ...
 - 📧 Reach me through fareen16515@gmail.com
 - ⌨️ Programming Languages I learned: C/C++, Python, Java
-- 💬 Other skills: HTML/CSS, PHP, Django, SQL
+- 💬 Other skills: HTML/CSS, PHP, Django, SQL, LaTex
 - 💯 Always enthusiastic about exploring new tasks !!!
 
 
