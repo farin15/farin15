@@ -1,4 +1,4 @@
-### Hello!!! 👋
+### Hello!!! I am Fareen Tasneem 🍊
 
 <!--
 **farin15/farin15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,12 +8,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
  -->
-- 🔭 I’m currently studying Computer Science & Engineering
-- 🌱 Venturing in various domains including Machine Learning, Data Science, NLP ...
-- 📫 Reach me through fareen16515@gmail.com
-- 💬 Programming Languages I learned: C/C++, Python, Java
+- 📖 I’m currently studying Computer Science & Engineering
+- 🎈 Venturing in various domains including Machine Learning, Data Science, NLP ...
+- 📧 Reach me through fareen16515@gmail.com
+- ⌨️ Programming Languages I learned: C/C++, Python, Java
 - 💬 Other skills: HTML/CSS, PHP, Django, SQL
-- ⚡ Always enthusiastic about exploring new tasks !!!
+- 💯 Always enthusiastic about exploring new tasks !!!
 
 
 ## 🎫 **My Portfolios:**
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
    
  - [Google Scholar](https://scholar.google.com/citations?user=jvyO1boAAAAJ&hl=en)
 
-## ✍️ **Publications:**
+## 📚 **Publications:**
 
  - [Harnessing Ensemble of Data Preprocessing and Hand-crafted Features for Irony Detection in Tweets](https://ieeexplore.ieee.org/abstract/document/9392711)
    
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
  - CSECU-DSG at SemEval-2021 Task 6: Orchestrating Multimodal Neural Architectures for Identifying Persuasion Techniques in Texts and Images. (Accepted; To appear)
  - CSECU-DSG at SemEval-2021 Task 5: Leveraging Ensemble of Sequence Tagging Models for Toxic Spans Detection. (Accepted; To appear)
 
-
+📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farin15&show_icons=true&theme=radical)
