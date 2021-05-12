@@ -29,3 +29,6 @@ Here are some ideas to get you started:
  - [CSECU-DSG  at  WNUT-2020 Task 2: Exploiting Ensemble of Transfer Learning and Hand-crafted Features for Identification of Informative  COVID-19  English Tweets](https://www.aclweb.org/anthology/2020.wnut-1.55.pdf)
  - CSECU-DSG at SemEval-2021 Task 6: Orchestrating Multimodal Neural Architectures for Identifying Persuasion Techniques in Texts and Images. (Accepted; To appear)
  - CSECU-DSG at SemEval-2021 Task 5: Leveraging Ensemble of Sequence Tagging Models for Toxic Spans Detection. (Accepted; To appear)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farin15&show_icons=true&theme=radical)
