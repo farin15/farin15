@@ -9,10 +9,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
  -->
 - 📖 I’m currently studying Computer Science & Engineering
-- 🎈 Venturing in various domains including Machine Learning, Data Science, NLP ...
+- 🎈 Venturing in various domains including **Machine Learning, Data Science, NLP ...**
 - 📧 Reach me through fareen16515@gmail.com
-- ⌨️ Programming Languages I learned: C/C++, Python, Java
-- 💬 Other skills: HTML/CSS, PHP, Django, SQL, LaTex
 - 💯 Always enthusiastic about exploring new tasks !!!
 
 
@@ -21,6 +19,14 @@ Here are some ideas to get you started:
  - [LinkedIn Profile](www.linkedin.com/in/fareen-tasneem-3585921bb)
    
  - [Google Scholar](https://scholar.google.com/citations?user=jvyO1boAAAAJ&hl=en)
+ 
+ 
+ ## 💣 **Skills:**
+
+ - Programming Languages: **C/C++, Python, Java**
+ - Web Development: **HTML/CSS, PHP, Django**
+ - Others: **SQL, LaTex**
+
 
 ## 📚 **Publications:**
 
