@@ -14,13 +14,6 @@ Here are some ideas to get you started:
 - 💯 Always enthusiastic about exploring new tasks !!!
 
 
-## ☞ **My Portfolios:**
-
- - [LinkedIn Profile](www.linkedin.com/in/fareen-tasneem-3585921bb)
-   
- - [Google Scholar](https://scholar.google.com/citations?user=jvyO1boAAAAJ&hl=en)
- 
- 
  ## 💣 **Skills:**
 
  - Programming Languages: **C/C++, Python, Java**
