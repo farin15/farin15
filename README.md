@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💯 Always enthusiastic about exploring new tasks !!!
 
 
-## 🎫 **My Portfolios:**
+## ☞ **My Portfolios:**
 
  - [LinkedIn Profile](www.linkedin.com/in/fareen-tasneem-3585921bb)
    
