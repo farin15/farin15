@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📖 I’m currently studying Computer Science & Engineering
 - 🎈 Venturing in various domains including **Machine Learning, Data Science, NLP ...**
 - 📧 Reach me through fareen16515@gmail.com
-- 💯 Always enthusiastic about exploring new tasks !!!
+
 
 
  ## 💣 **Skills:**
