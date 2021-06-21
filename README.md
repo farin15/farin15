@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
  -->
 - 📖 I’m currently studying Computer Science & Engineering
-- 🎈 Venturing in various domains including **NLP( Natural Language Processing), Opinion mining, Information retrieval from social media data...**
+- 🎈 Venturing in various domains including **NLP( Natural Language Processing), Opinion mining, Information retrieval from social media data, etc.**
 - 📧 Reach me through fareen16515@gmail.com
 
 
