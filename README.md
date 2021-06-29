@@ -1,4 +1,4 @@
-### Hello!!! I am Fareen Tasneem 🍊
+### Hello!!! I am Fareen Tasneem.
 
 <!--
 **farin15/farin15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
