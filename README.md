@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 ## 📚 **Publications:**
+- [Leveraging fusion of sequence tagging models for toxic spans detection](https://www.sciencedirect.com/science/article/abs/pii/S0925231222006166)
 
 - [Harnessing Ensemble of Data Preprocessing and Hand-crafted Features for Irony Detection in Tweets](https://ieeexplore.ieee.org/abstract/document/9392711)
    
